@@ -25,7 +25,7 @@ SALES DECIMAL(12,2)
 );
 
 BULK INSERT Superstore
-FROM 'C:\Users\PGNOp\OneDrive\Documents\Task\B PROJECT\superstore sales dataset.csv'
+FROM 'YOUR_FILE_PATH\superstore sales dataset.csv'
 WITH
 (
     FORMAT = 'CSV',
