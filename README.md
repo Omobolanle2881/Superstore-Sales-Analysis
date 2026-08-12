@@ -15,3 +15,10 @@ This project analyzes Superstore sales data to understand sales performance, cus
 -	Pivot Tables
 -	Data Visualization
 
+## Analysis Process
+1.	Reviewed and cleaned the raw superstore dataset.
+2.	Checked for missing values, duplicates and data inconsistencies.
+3.	Prepared the data for analysis.
+4.	Used Pivot Tables to summarize sales performance.
+5.	Used SQL to query and analyze the dataset.
+6.	Created visualizations to present key findings.
