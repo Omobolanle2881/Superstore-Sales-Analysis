@@ -33,7 +33,7 @@ SALES DECIMAL(12,2)
 ---DATA IMPORT: Download the CSV dataset and replace YOUR_FILE_PATH with the location where the file is saved on your computer
 
 BULK INSERT Superstore
-FROM 'C:\Users\PGNOp\OneDrive\Documents\Task\B PROJECT\superstore sales dataset.csv'
+FROM 'YOUR_FILE_PATH\superstore sales dataset.csv'
 WITH
 (
     FORMAT = 'CSV',
