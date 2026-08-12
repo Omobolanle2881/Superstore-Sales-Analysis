@@ -32,3 +32,5 @@ The analysis focuses on:
 -	Order trends over time
 -	Average order value
 
+## Dashboard
+The project includes and interactive dashboard designed to present the main sales performance metrics and trends in an easy-to-understand format.
