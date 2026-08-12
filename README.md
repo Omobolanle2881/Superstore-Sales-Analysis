@@ -30,7 +30,7 @@ The analysis focuses on:
 ## Dashboard
 The project includes and interactive dashboard designed to present the main sales performance metrics and trends in an easy-to-understand format.
 ### Dashboard Preview
-![Superstore Sales Dashboard](superstore-dashboard.png)
+![Superstore Sales Dashboard](https://github.com/Omobolanle2881/Superstore-Sales-Analysis/blob/main/Superstore-dashboard.png)
 ## Project Status
 **Completed**
 The data has been cleaned, analyzed and prepared for dashboard presentation.
