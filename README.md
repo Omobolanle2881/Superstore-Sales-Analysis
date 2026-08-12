@@ -9,4 +9,9 @@ This project analyzes Superstore sales data to understand sales performance, cus
 -	Examine order trends over time.
 -	Use data cleaning and analysis to generate useful business insights.
 
+## Tools Used
+-	Microsoft Excel
+-	SQL Server
+-	Pivot Tables
+-	Data Visualization
 
