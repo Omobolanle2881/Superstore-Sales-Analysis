@@ -22,3 +22,13 @@ This project analyzes Superstore sales data to understand sales performance, cus
 4.	Used Pivot Tables to summarize sales performance.
 5.	Used SQL to query and analyze the dataset.
 6.	Created visualizations to present key findings.
+
+## Key Analysis 
+The analysis focuses on:
+-	Total sales and order performance
+-	Customer distribution
+-	Sales by region and district
+-	Product and category performance
+-	Order trends over time
+-	Average order value
+
