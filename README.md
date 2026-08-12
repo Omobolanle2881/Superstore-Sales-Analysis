@@ -7,8 +7,8 @@ This project analyzes Superstore sales data to understand sales performance, cus
 -	Understand customer and regional sales patterns.
 -	Examine order trends over time.
 -	Use data cleaning and analysis to generate useful business insights.
--	## Dataset Used
--	<a href="https://github.com/Omobolanle2881/Superstore-Sales-Analysis/blob/main/superstore-sales-analysis.xlsx"> dataset
+	## Dataset Used
+-	<a href="https://github.com/Omobolanle2881/Superstore-Sales-Analysis/blob/main/superstore-sales-analysis.xlsx">Dataset</a>
 ## Tools Used
 -	Microsoft Excel
 -	SQL Server
